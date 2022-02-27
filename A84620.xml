@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The flaming islands: or, a full description and account of the strange and terrible fire lately broke out of the ground, in the island Fyal, in threescore and ten several places. As also in some other neighbouring islands; to the destruction of most of the inhabitants, and unexpressible terror and affrightment of those that by flight escaped its dismal effects.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84620</idno>
+            <idno type="STC">Wing F1130</idno>
+            <idno type="STC">ESTC R229862</idno>
+            <idno type="EEBO-CITATION">99895710</idno>
+            <idno type="PROQUEST">99895710</idno>
+            <idno type="VID">153223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2354:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The flaming islands: or, a full description and account of the strange and terrible fire lately broke out of the ground, in the island Fyal, in threescore and ten several places. As also in some other neighbouring islands; to the destruction of most of the inhabitants, and unexpressible terror and affrightment of those that by flight escaped its dismal effects.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Phillip Brooksby, next door to the Ball, in West Smithfield, neer the Hospital Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Volcanoes --  Azores --  Early works to 1800.</term>
+               <term>Faial (Azores) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153223:1"/>
+            <p>
+               <pb facs="tcp:153223:1" rendition="simple:additions"/> THE FLAMING ISLANDS: OR, A full Deſcription and Account of the ſtrange and terrible Fire, lately broke out of the Ground, in the Iſland <hi>Fyal,</hi> in Threeſcore and Ten ſeveral places. As alſo in ſome other Neighbouring Iſlands; to the Deſtruction of moſt of the Inhabitants, and unexpreſſible Terror and Affrightment of thoſe that by flight eſcaped its diſmal Effects.</p>
+            <q>
+               <l>
+                  <hi>Aeſse quoque in Fatis reminiſcimur affore tempus,</hi>
+               </l>
+               <l>
+                  <hi>Quo Marae, quo Tellus, ſumunuſquae Exar<g ref="char:EOLhyphen"/>deat Aether.</hi>
+               </l> 
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Phillip Brooksby,</hi> next door to the Ball, in <hi>Weſt Smithfield,</hi> neer the Hoſpital Gate. 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153223:2"/>
+            <pb n="3" facs="tcp:153223:2"/>
+            <head>THE Flaming ISLANDS: OR, A full Deſcription and Account of the ſtrange and terrible Fire, lately broke out of the Ground, in the Iſland <hi>Fyal,</hi> in Threeſcore and Ten ſeveral places. As alſo in ſome other Neigh<g ref="char:EOLhyphen"/>bouring Iſlands.</head>
+            <p>AMongſt all thoſe Stupendious effects wherewith Myſterious Nature Exerciſes and keeps in awe her trembling Children, few there are that have more, both aſtoniſhed Vulgar Heads, and bafled the Studies of more knowing and Phyloſiphical
+<pb n="4" facs="tcp:153223:3"/> Enquirers, than thoſe Occult and Subterranean Fires which have been obſerved always to Rage in ſome parti<g ref="char:EOLhyphen"/>cular parts of our Earthly Globe, and at certain Periods of time to break forth, to the Deraſtation of the Ad<g ref="char:EOLhyphen"/>jacent Countries, Mount <hi>Aetna,</hi> and <hi>Veſurius,</hi> are Fa<g ref="char:EOLhyphen"/>mous on this account in the Monuments of Antiquity; Whoſe wondrous qualities, whilſt <hi>Pliny</hi> (that Great Secre<g ref="char:EOLhyphen"/>tary of Nature) raſhly Attempted by too near approaches to diſcover, he is reported to be ſlain by one of thoſe vaſt burning Stones which it almoſt continually vomits up into the Air, falling thus, a Sacrifice to his over<g ref="char:EOLhyphen"/>buſie Curioſity.</p>
+            <p>The beſt account Phyloſiphy has yet afforded us, of theſe ſtrange Fires, is, That the Mountains, or places wherein they happen, are within Repleated with Brimſtone, and the Ground or Soil there, conſiſts of vaſt quantities of Bituminous, or the like Combuſtible matter, which taking Fire, either from its own Innate heat, or the Penetrating Rays of the Sun, the Winds which through imperceptible Crannies whilſtle up and down in thoſe underground Vaults (producing thereby ſometimes thoſe Erruptions we call Earthquakes) ſerve as Bellows to Augment its Rage: And having ſo much ready diſpoſed Fewel to Prey upon, it ceaſes not burning, but in proceſs of time, eating up towards the Surface; the Flames which had ſo long lurk'd in cloſe Carernes below, break out, to the infinite amazement of Mortals, who had not the leaſt apprehenſion of ſuch an hidden, but moſt terrible and devouring Enemy. A dreadful and deplorable example of which kind very lately hapned, is, The mournful Subject of the preſent Narrative, which be pleaſed to accept according to the
+<pb n="5" facs="tcp:153223:3"/> moſt certain Intelligence from the place that was the unhappy Scene of this Tragedy of Horror, as follows.</p>
+            <p>On the Coaſt of the Eaſt-Indies (whoſe Spices and precious Stones may juſtly Vye Dignity with the Weſt<g ref="char:EOLhyphen"/>ern Mines) not far from that Eminent and well-known Port of <hi>Goa,</hi> there lies a Cluſter of Iſlands, ſome of which being firſt diſcovered by the <hi>Portagues,</hi> do ſtill pay obedience to that Crown. Amongſt theſe, that called <hi>Fyael,</hi> for the pleaſantneſs of the Air, commodi<g ref="char:EOLhyphen"/>ouſneſs of its Situation, richneſs of the Commo<g ref="char:EOLhyphen"/>dities it produced, and number of Inhabitants, did far excel the reſt, whence we may eaſily Collect that the People who enjoyed all theſe Signal advan<g ref="char:EOLhyphen"/>tages lived in great Eaſe, Plenty, Magnificence, and Security: But alas! how ſoon can the Aldiſpoſing Arm of Providence blaſt our Joys, and by unexpected means turn our moſt flouriſhing condition into a ſtate of miſery and deſſolation.</p>
+            <p>On a ſudden in the beginning of this laft Spring, as they were in the hight of their Jollity, a Deluge of Fire, that by the means before hinted at, had long lain hid and confined, in the Bowels of the Earth, broke out with unimaginable Horror, and Impetuous Rage, in no leſs then Seventy diſtinct places of their Iſland, the Earth opening with horri<g ref="char:EOLhyphen"/>ble Roarings, and ſeveral vaſt Hyatuſſes, or Hideous Gapings; one of which hapning in the chief Town (being a place of excellent Structure, and Populous) all the Buildings, and moſt part of the Inhabitants were inſtantly ſwallowed in that dreadful Abyſſe of Flames.</p>
+            <pb n="6" facs="tcp:153223:4"/>
+            <p> In other places whole Flocks and Herds were Abſorpt, and deſcended as Burnt-Offerings in <hi>Hecatombs, Diis Manibus.</hi>
+            </p>
+            <p>The Flames which had thus broke Priſon from Earth, mounted with ſuch fury and violence towards Heaven, as if they would have joyned with the Elemental Fire, which the Ariſtotelians talk of, and perfected the Univer<g ref="char:EOLhyphen"/>al Conflagration.</p>
+            <p>Vaſt Stones red hot were (as it were) ſhot through the Air, which falling ſome miles diſtant, kil'd great numbers, and deſtroyed ſuch of the Houſes as the Earthquakes at the time of the firſt Erruptions had left ſtanding.</p>
+            <p>In Fine, There was nothing but Horror, Aſto<g ref="char:EOLhyphen"/>niſhment, Deſtruction, and Confuſion: The Air was all filled with ſmoak, burning Cinders, and Aſhes which fell like a Fiery Rain, and utterly waſted the whole Country.</p>
+            <p>All the <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ents ſeemed to War againſt, and Con<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire for the puniſhment of the wretched Inhabi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ants, whoſe Terr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs and Deſtractions were ſuch as are not poſſible to be fully, either deſcribed, or ima<g ref="char:EOLhyphen"/>gined.</p>
+            <p>An Univerſal Conſternation had ſeized them, and without any regard to their Friends or Relations: Women leaving their little Babes, and Men aban<g ref="char:EOLhyphen"/>doning their aged helpleſs parents, every one endea<g ref="char:EOLhyphen"/>voured to ſhift for himſelf, and get away by what means they could, from that diſmal place which threatned them every moment, with nothing out the moſt dread<g ref="char:EOLhyphen"/>ful kind of Death and Deſtruction.</p>
+            <pb n="7" facs="tcp:153223:4"/>
+            <p> The Neighbouring Iſlands, as St. <hi>Michaels,</hi> St. <hi>Georges,</hi> St. <hi>Maries,</hi> and the Tarceras, were the Zoars, to which, winged with fear, they Flew for refuge; though the laſt can promiſe them but little ſecurity, ſince the Fire is ſince broke out there too, though as yet, not with that fury and violence as in <hi>Fyal.</hi>
+            </p>
+            <p>Some of our Pious Anceſtors (rich in Faith, though barren in Phyloſophy) conceited thoſe Vulcano's, or burning Mountains of Brimſtone: As, <hi>Aetna, Veſurius,</hi> and the like, to be the Local place of Hell, and Re<g ref="char:EOLhyphen"/>ceptacles of Souls Doom'd to everlaſting torments. The truth is, they ſeem'd to have a very neer reſemblance to that Litteral deſcription of Hell delivered to us, in the Sacred Oracles. And though ſome wild Athe<g ref="char:EOLhyphen"/>iſtical Gallants (that ſcarce dread any other Hell, but an empty pocket, or the frowns of a Miſtris) may Suggeſt, that Fire can have no effect of torment on a Soul, and that weeping and gnaſhing of teeth are not eaſily ſuppoſed puniſhments conſiſtent, and therefore that all thoſe things are Allegorically to be under<g ref="char:EOLhyphen"/>ſtood, yet let them be aſſured the Fire of Hell is either Elemental Fire, or ſomething worſe; for which we want a Name that can better expreſs its inconceive<g ref="char:EOLhyphen"/>able, as well as endleſs tortures.</p>
+            <pb n="8" facs="tcp:153223:5"/>
+            <p> Wherefore let all Pious Readers, by this terrible example of God's Power, and ſtrange burning in the Bowels of the Earth, be admoniſhed to mind that Uni<g ref="char:EOLhyphen"/>verſal Conflagration, when the whole Globe of Earth ſhall confeſs it's Aſhes, and be deſtroyed by Fire; and to prepare for that amazing Judgement which ſhall then immediately ſucceed, (the thoughts whereof alone, as a Noble Author hath it, <hi>are able to keep us honeſt in the dark,</hi> and) which ſhall Impartially render to every Man according to his Works.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153223:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
